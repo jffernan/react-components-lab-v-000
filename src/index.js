@@ -16,7 +16,7 @@ class OlderCoaster extends React.Component {
       React.createElement('ul', {}, [
         React.createElement('li', {}, 'Agnes'),
         React.createElement('li', {}, 'Muriel'),
-      ]);
+      ]),
     ]);
   }
 };
