@@ -1,14 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const BUTCHER_PRODUCTS = [
-  'Tenderloin',
-  'Short ribs',
-  'Beef shin',
-  'Ribeye'
-];
-
-// Define these exported classes
 export class OlderCoaster extends React.Component {
   render(){
     return React.createElement('div', {className: 'oldercoaster'},
